@@ -368,6 +368,8 @@ The laboratory can be extended with:
 - SIEM ingestion
 - EDR telemetry correlation
 - Active Directory investigation
+  - Completed [TryHackMe: Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) room covering User Enumeration, AS-REP Roasting, DCSync, and Pass-the-Hash.https://tryhackme.com/room/attacktivedirectory?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6a70f9400fec8769cd835154
+  - Detailed writeup available in: [`./Active-Directory-Attacktive-Directory/README.md`](./Active-Directory-Attacktive-Directory/README.md)
 - Network traffic analysis with Wireshark
 
 ---
